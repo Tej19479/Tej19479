@@ -1,6 +1,6 @@
 <h2>Hi there <img height="50" alt="GIF" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/hello.gif" />, I'm Tej Pratap Singh!</h2>
 
-<p>Hi, I'm Tej Pratap Singh, a <strong>Software Testing Engineer</strong> specializing in <strong>Automation & Manual Testing</strong> 🚀 with 4+ years of experience in the <strong>FinTech domain</strong>. I’m passionate about delivering high-quality software using <strong>Selenium, Python, API Testing, and CI/CD pipelines</strong>.</p> 
+<p>Hi, I'm Tej Pratap Singh, a <strong>Software Testing Engineer</strong> specializing in <strong>Automation & Manual Testing</strong> 🚀 with 5+ years of experience in the <strong>FinTech domain</strong>. I’m passionate about delivering high-quality software using <strong>Selenium, Python, API Testing, and CI/CD pipelines</strong>.</p> 
 
 <img align="right" alt="testing" width="400" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/logo.gif"/> 
 
@@ -31,7 +31,7 @@
 - Executed load testing on loan origination flow using JMeter.  
 - Integrated test execution with Jenkins nightly builds.  
 
-📊 **Lead Aggregator Based Product (Faircent Pro)**  
+📊 **Lead Aggregator Based Product **  
 
 - Tested rule engine logic for multiple NBFC product offerings.  
 - Ensured mapping, eligibility, and routing logic as per partner configuration.  
