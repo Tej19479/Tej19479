@@ -1,30 +1,41 @@
 ### <h2>Hi there <img height="50" alt="GIF" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/hello.gif" />, I'm [Tej Pratap Singh!](https://github.com/Tej19479) </h2>
-<p>Hi, I'm Mohd Azharuddin, a Full Stack Developer 🚀 from Delhi, India 🇮🇳. I'm interested in solving real world problems using the technologies present out there.</p>
-<img align="right" alt="coding" width="400" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/logo.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bcasazharuddin&label=Profile%20views&color=0e75b6&style=flat" alt="bcasazharuddin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohdazh87051317" target="blank"><img src="https://img.shields.io/twitter/follow/mohdazh87051317?logo=twitter&style=for-the-badge" alt="mohdazh87051317" /></a> </p>
+<p>Hi, I'm Tej Pratap Singh, a **QA Engineer** specializing in **FinTech** 🚀 from India 🇮🇳. I’m passionate about ensuring high-quality software using **Automation & Manual Testing** and solving real-world problems with technology.</p>
 
-🔭 I’m currently working on **MrBorrower**
+<img align="right" alt="testing" width="400" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/logo.gif"/>
 
-🌱 I’m currently learning **ReactJS,NodeJS,MongoDB(MERN)**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tej19479&label=Profile%20views&color=0e75b6&style=flat" alt="Tej19479" /> </p>
 
-💬 Ask me about **Java,MERN**
+<p align="left"> 
+<a href="https://twitter.com/your_twitter" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="twitter" /></a> 
+</p>
 
-📫 How to reach me **mohdazharuddin.mca20.du@gmail.com**
+🔭 I’m currently working on **Automation Testing & QA Projects**  
 
-⚡ Fun fact **I think I am funny**
+🌱 I’m currently learning **Advanced Python, Selenium, API Testing, CI/CD & DevOps**  
+
+💬 Ask me about **Python, Selenium, JMeter, CI/CD, Agile QA**  
+
+📫 How to reach me **tejpratap.qa@gmail.com**  
+
+⚡ Fun fact **I love making testing fun and efficient!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohdazh87051317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdazh87051317" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/bcasazharuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bcasazharuddin" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100075114172188&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100075114172188&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mohd_azharuddin111999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohd_azharuddin111999/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/bcasazharuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bcasazharuddin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/bcasazharuddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bcasazharuddin/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/bcasazharuddin/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/bcasazharuddin/practice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tejpratap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/your_hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/your_leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/your_gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+<p align="left"> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachejmeter/apachejmeter-original-wordmark.svg" alt="jmeter" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
