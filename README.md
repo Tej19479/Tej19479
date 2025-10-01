@@ -16,13 +16,13 @@
 
 💬 Ask me about **Python, Selenium, JMeter, CI/CD, Agile QA**  
 
-📫 How to reach me **tejpratap.qa@gmail.com**  
+📫 How to reach me **[golusingh19479@gmail.com](mailto:golusingh19479@gmail.com)**  
 
 ⚡ Fun fact **I love making testing fun and efficient!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejpratap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tej-singh-311aa5141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/your_hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/your_leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/your_gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
