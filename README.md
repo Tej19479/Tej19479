@@ -1,4 +1,4 @@
-### <h2>Hi there <img height="50" alt="GIF" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/hello.gif" />, I'm [Mohd Azharuddin!](https://github.com/bcasazharuddin) </h2>
+### <h2>Hi there <img height="50" alt="GIF" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/hello.gif" />, I'm [Tej Pratap Singh!](https://github.com/Tej19479) </h2>
 <p>Hi, I'm Mohd Azharuddin, a Full Stack Developer 🚀 from Delhi, India 🇮🇳. I'm interested in solving real world problems using the technologies present out there.</p>
 <img align="right" alt="coding" width="400" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/logo.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bcasazharuddin&label=Profile%20views&color=0e75b6&style=flat" alt="bcasazharuddin" /> </p>
